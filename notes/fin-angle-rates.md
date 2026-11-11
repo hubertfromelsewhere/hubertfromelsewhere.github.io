@@ -1,6 +1,6 @@
 # Fin angle rates
 
-I compared fin rotations and audible scrapes per crank turn at several angles. Rates below are approximate, calculated by dividing each run’s totals by its number of turns.
+I compared fin rotations and audible scrapes per crank turn at several angles. The rates below are approximate, calculated by dividing each run’s totals by its number of turns.
 
 | Fin angle | Turns | Rotations per turn | Scrapes per turn |
 |---:|---:|---:|---:|
@@ -11,6 +11,6 @@ I compared fin rotations and audible scrapes per crank turn at several angles. R
 | 10° | 6 | 0.27 | 2.17 |
 | 10° | 12 | 0.26 | 2.08 |
 
-The pattern looks smooth across the tested angles: as the fin angle increases, rotations per turn decrease while scrapes per turn increase. The 8.5° readings sit between the 8° and 9° readings, and the 8° and 10° runs each give similar rates at six and twelve turns. At 6.5°, the 12-turn run also shows more rotations and fewer scrapes per turn than the 9° trial.
+Across the tested angles, the trend is smooth: rotations per turn decrease as fin angle increases, while scrapes per turn increase. The 8.5° readings fall between the 8° and 10° readings. The six- and twelve-turn runs at 8° and 10° give similar rates; the small differences are consistent with the approximate nature of these readings.
 
-These are approximate observations from limited runs, not precise measurements. The angle settings and run lengths tested do not establish how the pattern behaves at every angle or beyond this range. No short run at 8.5° was recorded.
+These are limited observations, not precise measurements. The trials do not establish the pattern at every angle or beyond the tested range. No short run at 8.5° was recorded.
